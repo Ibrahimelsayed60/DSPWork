@@ -1,0 +1,7 @@
+https://docs.scipy.org/doc/scipy/reference/generated/scipy.signal.remez.html
+
+https://docs.scipy.org/doc/scipy/reference/generated/scipy.signal.lfilter.html
+
+https://docs.scipy.org/doc/scipy/reference/generated/scipy.signal.freqz.html
+
+https://docs.scipy.org/doc/scipy/reference/generated/scipy.signal.butter.html
